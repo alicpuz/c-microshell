@@ -16,7 +16,7 @@ A simple Unix-like shell written in C.
 ## Compilation
 
 ```bash
-gcc -Wall -Wextra microshell.c -o microshell
+gcc microshell.c -o microshell
 ```
 
 ## Running
